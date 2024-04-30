@@ -1,0 +1,7 @@
+#!/bin/bash
+conky -c /home/cesar/conky_themes/cpu4_cores &
+conky -c /home/cesar/conky_themes/disk &
+conky -c /home/cesar/conky_themes/Hermoso_Rc &
+conky -c /home/cesar/conky_themes/mem &
+conky -c /home/cesar/conky_themes/procs &
+conky -c /home/cesar/conky_themes/conkyrc_time &
